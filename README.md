@@ -1,0 +1,2 @@
+# IT Support Ticketing
+ A platform to streamline communication between customers and the IT support team. Users can submit, manage, and track support tickets, while IT staff can handle, assign, and resolve them in real-time. The system ensures transparency, real-time updates, and role-based access. Built for scalability, security, and performance, it provides an efficient, user-friendly experience for both customers and IT teams, aiming to resolve issues quickly while keeping users informed.
